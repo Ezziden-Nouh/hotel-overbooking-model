@@ -4,6 +4,8 @@ Excel model recommending an overbooking policy for a city hotel, built on 79k bo
 ## Recommendation
 Blended across all bookings, the hotel would need to accept about 72% more bookings than it has rooms to expect a full house. But that single rate is misleading — show-up rates range from 36% on bookings made six months ahead to 88% on bookings made within a week, so a flat policy would either leave rooms empty or walk guests. The recommendation is to set the rate per arrival date based on the booking mix.
 
+![Dashboard](dashboard.png)
+
 ## The question
 How many bookings the hotel should accept above capacity, and what that policy is worth. The decision belongs to a revenue manager setting booking policy.
 
